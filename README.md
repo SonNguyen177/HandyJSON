@@ -1,3 +1,7 @@
+This repository is forked from https://github.com/alibaba/HandyJSON because original repository has been abandoned. I will continue maintain this project. But Im not iOS master, so I hope have help of everyone. Many thanks to all.
+
+I don't know Chinese, so please using English for Issues and Pull request. Thanks ^^.
+
 # HandyJSON
 
 HandyJSON is a framework written in Swift which to make converting model objects( **pure classes/structs** ) to and from JSON easy on iOS.
