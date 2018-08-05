@@ -61,7 +61,7 @@ open class DecimalTransform: TransformType {
             return Decimal(string: string)
         }
         if let double = value as? Double {
-            return Decimal.init(double)
+            return Decimal(string: "\(double)")
         }
         return nil
     }
